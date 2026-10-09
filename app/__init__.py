@@ -1,1 +1,0 @@
-"""Geospatial file measurement API."""
