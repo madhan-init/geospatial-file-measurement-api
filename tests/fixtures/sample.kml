@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Folder><name>plots</name>
+      <Placemark><name>Plot A</name><Polygon><outerBoundaryIs><LinearRing>
+        <coordinates>9,49.65,20 9.001,49.65,20 9.001,49.651,20 9,49.651,20 9,49.65,20</coordinates>
+      </LinearRing></outerBoundaryIs></Polygon></Placemark>
+    </Folder>
+    <Folder><name>routes</name>
+      <Placemark><name>Route A</name><LineString><coordinates>9,49.65 9.001,49.651</coordinates></LineString></Placemark>
+      <Placemark><name>Marker</name><Point><coordinates>9,49.65</coordinates></Point></Placemark>
+    </Folder>
+  </Document>
+</kml>
