@@ -1,0 +1,12 @@
+# Verified on Windows, Python 3.12.14. GIS wheels bundle GDAL/PROJ.
+fastapi==0.143.0
+uvicorn==0.54.0
+python-multipart==0.0.32
+pydantic==2.14.0
+geopandas==1.2.0
+pyogrio==0.13.0
+shapely==2.2.0
+pyproj==3.8.0
+defusedxml==0.7.1
+numpy==2.5.3
+pandas==3.0.6

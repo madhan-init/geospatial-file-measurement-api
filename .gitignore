@@ -1,0 +1,10 @@
+.venv/
+.venv-check/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.coverage
+*.log
+.uv-cache/
+requirements-dev.txt
+VERIFICATION.md
